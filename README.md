@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1>🐐 Darko Vasiljkov</h1>
 
-<!--
-**darkovasiljkov/darkovasiljkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`Software Craftsman`
 
-Here are some ideas to get you started:
+Full-stack software engineer who ships thoughtfully engineered software. Focused on building real products, not just features.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> 🧰 Languages and tools </h2>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,angular,react,html,css,cs,dotnet,nodejs,nextjs,tailwind,postgres,mongodb,git" alt="Tech Stack" />
+  </a>
+</div>
+<br/>
+
+<blockquote>
+   Discipline in code. Relentless improvement. Long-term thinking.
+</blockquote>
+<br/>
+
