@@ -1,4 +1,4 @@
-<h1>🐐 Darko Vasiljkov</h1>
+<h1>Darko Vasiljkov</h1>
 
 `Software Craftsman`
 
