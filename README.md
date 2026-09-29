@@ -2,6 +2,8 @@
 
 Software, side quests, and occasional overengineering.
 
+🌐 darkovasiljkov.com
+
 <h2>Tech stack</h2>
 
 <a href="https://skillicons.dev">
