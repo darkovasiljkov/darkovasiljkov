@@ -2,7 +2,7 @@
 
 Software, side quests, and occasional overengineering.
 
-🌐 darkovasiljkov.com
+🌐<a href="https://darkovasiljkov.com">darkovasiljkov.com</a>
 
 <h2>Tech stack</h2>
 
