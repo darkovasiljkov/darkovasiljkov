@@ -2,7 +2,7 @@
 
 Software, side quests, and occasional overengineering.
 
-<h2>What I work with</h2>
+<h2>Tech stack</h2>
 
 <div align="center">
   <a href="https://skillicons.dev">
